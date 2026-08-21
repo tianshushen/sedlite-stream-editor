@@ -1,0 +1,29 @@
+# Test scripts are not published
+t.sh
+test-helper-lib.sh
+test?.sh
+
+# Course material - not mine to publish
+sepc.txt
+overall.txt
+
+# Other people's test cases - not mine to publish
+testcases_from_jrz/
+
+# Local test-run log and the remote-sync helper
+output.txt
+push.sh
+
+# 2.4 MB system word list
+examples/dictionary.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
